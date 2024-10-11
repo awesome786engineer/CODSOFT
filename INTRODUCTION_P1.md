@@ -29,5 +29,5 @@ Stay tuned as I regularly update this repository with my completed projects!
 
 Feel free to reach out for any questions or collaboration opportunities:
 
-- **Email**: [vidhan7905@gmail.com]
-- **LinkedIn**: [Your LinkedIn Profile Link](https://www.linkedin.com/in/vidhan-tiwari-7a4391328/)
+- **Email**: vidhan7905@gmail.com
+- **LinkedIn**: [My LinkedIn Profile Link](https://www.linkedin.com/in/vidhan-tiwari-7a4391328/)
