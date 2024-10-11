@@ -12,7 +12,7 @@ The projects in this repository will demonstrate my understanding and applicatio
 
 - **Program**: 4-week Python Internship
 - **Organization**: CODSOFT
-- **Duration**: [10 October 2024 to 10 November 2024]
+- **Duration**: 10 October 2024 to 10 November 2024
 - **Objective**: To complete a series of Python projects, improving problem-solving skills and gaining hands-on experience with Python development.
 
 ## Contents
@@ -29,5 +29,5 @@ Stay tuned as I regularly update this repository with my completed projects!
 
 Feel free to reach out for any questions or collaboration opportunities:
 
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile Link]
+- **Email**: [vidhan7905@gmail.com]
+- **LinkedIn**: [Your LinkedIn Profile Link](https://www.linkedin.com/in/vidhan-tiwari-7a4391328/)
