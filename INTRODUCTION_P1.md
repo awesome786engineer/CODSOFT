@@ -20,7 +20,7 @@ The projects in this repository will demonstrate my understanding and applicatio
 This repository will include:
 
 - Python projects assigned throughout the internship.
-- Detailed documentation for each project, including problem statements and approaches.
+- Detailed documentation for each project.
 - Code implementations and testing files (where applicable).
 
 Stay tuned as I regularly update this repository with my completed projects!
