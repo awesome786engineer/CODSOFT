@@ -128,9 +128,6 @@ pg.display.update()
 clock.tick(60)
 ```
 
-7. **Screenshot**
-   ![Alt text](image_path)
-
 
 
 
