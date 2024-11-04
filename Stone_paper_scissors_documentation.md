@@ -9,8 +9,8 @@ This is a simple graphical user interface (GUI) game for Stone Paper Scissors (a
 4. [Code Walkthrough](#code-walkthrough)
     - [Initialization](#initialization)
     - [Main Game Loop](#main-game-loop)
-    - [Functions](#functions)
-5. [Conclusion](#conclusion)
+    - [Game Variables](#Game-Variables)
+5. [Exiting The Game](#Exiting-the-Game)
 
 ## Requirements
 
