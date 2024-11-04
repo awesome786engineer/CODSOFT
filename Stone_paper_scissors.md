@@ -11,6 +11,7 @@ This is a simple graphical user interface (GUI) game for Stone Paper Scissors (a
     - [Main Game Loop](#main-game-loop)
     - [Game Variables](#Game-Variables)
 5. [Exiting The Game](#Exiting-the-Game)
+6. [Source Code](#Source-Code)
 
 ## Requirements
 
