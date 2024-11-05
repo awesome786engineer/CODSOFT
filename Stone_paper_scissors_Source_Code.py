@@ -19,6 +19,11 @@ green = (0, 250, 0)
 size = 40
 
 def make_button(text, rect, color, window):
+    # border rectangle
+    border_width = 5
+    border_rect = pg.Rect(rect[0] - border_width, rect[1] - border_width, rect[2] + 2 * border_width, rect[3] + 2 * border_width)
+    pg.draw.rect(main_window, black, border_rect)
+    # button rectangle
     pg.draw.rect(main_window, color, rect)
     font = pg.font.SysFont(None, 40)
     text_surface = font.render(text, True, black)
